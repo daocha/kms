@@ -1,0 +1,6 @@
+# docker excluding files
+**/__pycache__
+**/docker/*
+**/*.log
+**/*.sh
+**/*.pyc
