@@ -1,6 +1,6 @@
 FROM python:3.6.6-alpine3.8
 
-LABEL "Ray LI <ray@daocha.me>"
+LABEL Dcha KMS "Ray LI <ray@daocha.me>"
 
 ENV FLASK_ENV="docker" \
 	FLASK_APP="main.py"
